@@ -1,0 +1,11 @@
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Exercícios POO - Básico\Exercícios POO - Básico\bin\Debug\netcoreapp2.1\Exercícios POO - Básico.deps.json
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Exercícios POO - Básico\Exercícios POO - Básico\bin\Debug\netcoreapp2.1\Exercícios POO - Básico.runtimeconfig.json
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Exercícios POO - Básico\Exercícios POO - Básico\bin\Debug\netcoreapp2.1\Exercícios POO - Básico.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Exercícios POO - Básico\Exercícios POO - Básico\bin\Debug\netcoreapp2.1\Exercícios POO - Básico.dll
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Exercícios POO - Básico\Exercícios POO - Básico\bin\Debug\netcoreapp2.1\Exercícios POO - Básico.pdb
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Exercícios POO - Básico\Exercícios POO - Básico\obj\Debug\netcoreapp2.1\Exercícios POO - Básico.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Exercícios POO - Básico\Exercícios POO - Básico\obj\Debug\netcoreapp2.1\Exercícios POO - Básico.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Exercícios POO - Básico\Exercícios POO - Básico\obj\Debug\netcoreapp2.1\Exercícios POO - Básico.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Exercícios POO - Básico\Exercícios POO - Básico\obj\Debug\netcoreapp2.1\Exercícios POO - Básico.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Exercícios POO - Básico\Exercícios POO - Básico\obj\Debug\netcoreapp2.1\Exercícios POO - Básico.dll
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Exercícios POO - Básico\Exercícios POO - Básico\obj\Debug\netcoreapp2.1\Exercícios POO - Básico.pdb
