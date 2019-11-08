@@ -1,0 +1,7 @@
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Estudo de Geração Automática de Classes\Estudo de Geração Automática de Classes\bin\Debug\Estudo de Geração Automática de Classes.exe.config
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Estudo de Geração Automática de Classes\Estudo de Geração Automática de Classes\bin\Debug\Estudo de Geração Automática de Classes.exe
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Estudo de Geração Automática de Classes\Estudo de Geração Automática de Classes\bin\Debug\Estudo de Geração Automática de Classes.pdb
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Estudo de Geração Automática de Classes\Estudo de Geração Automática de Classes\obj\Debug\Estudo de Geração Automática de Classes.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Estudo de Geração Automática de Classes\Estudo de Geração Automática de Classes\obj\Debug\Estudo de Geração Automática de Classes.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Estudo de Geração Automática de Classes\Estudo de Geração Automática de Classes\obj\Debug\Estudo de Geração Automática de Classes.exe
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\Estudo de Geração Automática de Classes\Estudo de Geração Automática de Classes\obj\Debug\Estudo de Geração Automática de Classes.pdb
