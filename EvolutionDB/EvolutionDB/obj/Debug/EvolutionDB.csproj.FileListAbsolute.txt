@@ -1,0 +1,14 @@
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\EvolutionDB\EvolutionDB\bin\Debug\EvolutionDB.exe.config
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\EvolutionDB\EvolutionDB\bin\Debug\EvolutionDB.exe
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\EvolutionDB\EvolutionDB\bin\Debug\EvolutionDB.pdb
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\EvolutionDB\EvolutionDB\obj\Debug\EvolutionDB.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\EvolutionDB\EvolutionDB\obj\Debug\EvolutionDB.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\EvolutionDB\EvolutionDB\obj\Debug\EvolutionDB.exe
+C:\Users\Samsung\Desktop\DARWIN\Estudos\Projetos\EvolutionDB\EvolutionDB\obj\Debug\EvolutionDB.pdb
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\EvolutionDB\EvolutionDB\bin\Debug\EvolutionDB.exe.config
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\EvolutionDB\EvolutionDB\bin\Debug\EvolutionDB.exe
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\EvolutionDB\EvolutionDB\bin\Debug\EvolutionDB.pdb
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\EvolutionDB\EvolutionDB\obj\Debug\EvolutionDB.csprojAssemblyReference.cache
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\EvolutionDB\EvolutionDB\obj\Debug\EvolutionDB.csproj.CoreCompileInputs.cache
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\EvolutionDB\EvolutionDB\obj\Debug\EvolutionDB.exe
+C:\Users\darwi\Desktop\DARWIN\Estudos\Projetos\EvolutionDB\EvolutionDB\obj\Debug\EvolutionDB.pdb
